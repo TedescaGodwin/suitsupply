@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Suit.Supply.Function": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 33605,
+      "useSSL": false
+    }
+  }
+}
